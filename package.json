@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "author": "rounak",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
